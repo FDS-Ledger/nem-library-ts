@@ -59,7 +59,7 @@
     "js-base64": "^2.3.2",
     "js-joda": "^1.6.1",
     "lodash": "^4.17.10",
-    "nem-sdk": "^1.6.7",
+    "nem-sdk": "git+https://github.com/FDS-Ledger/NEM-sdk.git",
     "request": "^2.88.0",
     "request-promise-core": "^1.1.1",
     "request-promise-native": "^1.0.5",
